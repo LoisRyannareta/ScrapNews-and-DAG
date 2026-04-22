@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.python-version
+venv/
+env/
+ENV/
+.venv/
+airflow-wired-project/logs/
+airflow-wired-project/*.db
+airflow-wired-project/*.pid
+airflow-wired-project/airflow.cfg
+.env
+.env.dev
+.env.prod
+airflow-wired-project/data/
